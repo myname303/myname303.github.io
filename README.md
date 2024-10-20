@@ -1,2 +1,1 @@
-# myname303.github.io
-Blog
+# my-js-app.io
